@@ -1,0 +1,23 @@
+<html>
+  <head>
+  <title> The first page </title>
+  </head>
+  <body>
+  <p> It is start </p>
+  <p> It is my first code </p>
+  <p> It is <br/> next sentense </p>
+  <p> ОБЫЧНЫЙ ШРИФТ </p>
+  <p><b> ТЕКСТ ЖИРНЫЙ ШРИФТ </b></p>
+  <p><i> ТЕКСТ КУРСИВОМ </i></p>
+  <p><small> МЕЛКИЙ ШРИФТ </small></p>
+  <p><strong> ВАЖНЫЙ ТЕКСТ </small></p>
+
+  <!-- HTML атрибуты -->
+
+  <p align=centre">
+   This is senten in the centre
+  </p>
+   
+  
+ </body>
+</html>
